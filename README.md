@@ -21,3 +21,5 @@ Navigating the Linux filesystem
 Reading system metrics
 
 Writing and debugging Bash scripts
+
+Project https://roadmap.sh/projects/server-stats
